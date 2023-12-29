@@ -1,0 +1,6 @@
+||accommodations.booking.com^$important
+||booking^$important
+||web-perf.booking.com^$important
+||shelves.booking.com^$important
+||d2i5gg36g14bzn.cloudfront.net^$important
+||cloudfront.net^$important 
